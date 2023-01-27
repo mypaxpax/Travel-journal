@@ -1,11 +1,11 @@
 import Nav from "./components/Nav.jsx";
-import Maincontent from "./components/Maincontent.jsx";
+import Card from "./components/Card.jsx";
 
 function App() {
   return (
     <div className="container">
       <Nav />
-      <Maincontent />
+      <Card />
     </div>
   );
 }
