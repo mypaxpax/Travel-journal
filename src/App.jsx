@@ -1,9 +1,11 @@
 import Nav from "./components/Nav.jsx";
+import Maincontent from "./components/Maincontent.jsx";
 
 function App() {
   return (
-    <div>
+    <div className="container">
       <Nav />
+      <Maincontent />
     </div>
   );
 }
