@@ -1,6 +1,6 @@
 function Navbar() {
   return (
-    <div>
+    <div className="nav-bar">
       <nav>123</nav>
     </div>
   );
