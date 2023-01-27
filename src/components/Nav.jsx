@@ -1,8 +1,9 @@
 function Navbar() {
   return (
-    <div className="nav-bar">
-      <nav>123</nav>
-    </div>
+    <nav className="nav-bar">
+      <img src="./src/assets/globe.png"></img>
+      <p className="nav-bar--title">my travel journal</p>
+    </nav>
   );
 }
 
