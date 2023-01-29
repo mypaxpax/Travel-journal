@@ -1,5 +1,5 @@
-import Nav from "./components/Nav";
-import Card from "./components/Card";
+import Nav from "./components/Nav.jsx";
+import Card from "./components/Card.jsx";
 import data from "./data.js";
 
 function App() {
